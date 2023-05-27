@@ -1,3 +1,3 @@
 # TrainingCode
 ## Consolidate training code
-### This repository will contain all code created during training sessions
+### This repository contains all code created during training sessions
